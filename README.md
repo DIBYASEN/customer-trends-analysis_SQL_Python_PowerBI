@@ -6,10 +6,11 @@ This project analyzes customer shopping behavior to uncover purchasing patterns,
 
 The goal of the project is to demonstrate an **end-to-end data analytics workflow**, from raw data to business-ready dashboards.
 
+
 ---
 
 ## 🧰 Tools & Technologies Used
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy)
 - SQL (Data querying & aggregation)
 - Power BI (Dashboard & visualization)
 - Excel / CSV (Data source)
