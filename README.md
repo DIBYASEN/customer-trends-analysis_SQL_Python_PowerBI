@@ -76,7 +76,7 @@ Customer-Shopping-Behavior-Analysis/
 ## 🚀 How to Use This Project
 1. Clone the repository
 ```
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/DIBYASEN/customer-trends-analysis_SQL_Python_PowerBI
 ```
 2. Open the Jupyter Notebook to view Python analysis
 3. Run SQL queries on the dataset for insights
