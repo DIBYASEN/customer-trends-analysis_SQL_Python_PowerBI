@@ -5,6 +5,7 @@
 This project analyzes customer shopping behavior to uncover purchasing patterns, customer segmentation, and product performance insights. The analysis was performed using **Python for data cleaning and feature engineering**, **SQL for querying insights**, and **Power BI for interactive visualizations**.
 
 The goal of the project is to demonstrate an **end-to-end data analytics workflow**, from raw data to business-ready dashboards.
+
 ![customer_trend_analysis_steps](https://github.com/DIBYASEN/customer-trends-analysis_SQL_Python_PowerBI/blob/7ab4dd6b11f23b71810e8cebaf3866534121f834/image.jpg)
 
 ---
